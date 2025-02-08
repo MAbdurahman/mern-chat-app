@@ -1,0 +1,17 @@
+{
+  "name": "mern-chat-app",
+  "version": "1.0.0",
+  "description": "MongoDB, Express.JS, ReactJS, and Node.JS project",
+  "main": "backend/server.js",
+  "type": "module",
+  "repository": "https://github.com/MAbdurahman/mern-chat-app.git",
+  "author": "Mahdi Abdurrahman <mdbdrrhm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^9.0.1",
+    "nodemon": "^3.1.6"
+  },
+  "nodemonConfig": {
+    "delay": 2000
+  }
+}
