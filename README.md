@@ -1,5 +1,6 @@
 # mern-chat-app
 
+
 ## Features
 - MongoDB, Express.js, ReactJS, and Node.js
 - Authentication and Authorization with JWT
@@ -23,14 +24,28 @@ CLOUDINARY_API_SECRET=
 
 ### Start the app
 ```shell
-npm install or yarn install
+npm install
+```
+or
+```shell
+yarn install
 ```
 then
 ```shell
-npm start or yarn start
+npm start
+```
+or
+
+```shell
+yarn start
 ```
 
 ### Build the app
 ```shell
-npm run build or yarn build
+npm run build
+```
+or
+
+```shell
+yarn build
 ```
